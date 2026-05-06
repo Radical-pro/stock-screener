@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MATV",
-    "fetch_date": "2026-04-24T14:31:50.767614",
+    "fetch_date": "2026-05-06T15:08:40.300500",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 458600000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.711,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:31:50.769418"
+  "fetched_at": "2026-05-06T15:08:40.301966"
 }

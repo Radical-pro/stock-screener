@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ALTO",
-    "fetch_date": "2026-04-29T14:24:44.597612",
+    "fetch_date": "2026-05-06T14:36:35.061899",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 236347000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.266,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-29T14:24:44.598783"
+  "fetched_at": "2026-05-06T14:36:35.063377"
 }
