@@ -9,6 +9,10 @@
 
 ---
 
+![Example scan output showing benchmark summary, market breadth, and top buy signals](assets/example-output.png)
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -586,9 +590,9 @@ python manage_positions.py --entry-dates entry_dates.json
 stock-screener/
 ├── .github/
 │   └── workflows/
-│       └── daily_scan.yml              # GitHub Actions automation
+│       └── daily_screening_git_storage.yml  # Automated daily scan
 │
-├── src/
+├── src/                                # Core library
 │   ├── data/
 │   │   ├── fetcher.py                  # YahooFinanceFetcher (price data)
 │   │   ├── fundamentals_fetcher.py     # Quarterly financials fetcher
@@ -596,36 +600,37 @@ stock-screener/
 │   │   ├── enhanced_fundamentals.py    # FMP integration (optional)
 │   │   ├── universe_fetcher.py         # NASDAQ/NYSE stock universe
 │   │   └── robinhood_positions.py      # Robinhood read-only API
-│   │
 │   ├── screening/
 │   │   ├── phase_indicators.py         # 4-phase classification
 │   │   ├── signal_engine.py            # Buy/sell signal scoring
 │   │   ├── benchmark.py                # SPY analysis + market breadth
-│   │   └── optimized_batch_processor.py # Parallel processing engine
-│   │
+│   │   └── optimized_batch_processor.py
 │   └── analysis/
 │       └── position_manager.py         # Stop loss recommendations
 │
+├── tests/                              # Test suite
+├── examples/                           # Demo scripts and sample configs
+├── scripts/                            # Utility runners and shell scripts
+├── assets/                             # Screenshots and images
+├── docs/                               # Extended documentation
+│
 ├── data/
-│   ├── fundamentals_cache/             # Git-tracked fundamentals (1762 stocks)
+│   ├── fundamentals_cache/             # Git-tracked fundamentals (1,762 stocks)
 │   ├── daily_scans/                    # Historical scan reports
 │   └── position_reports/               # Position management reports
 │
 ├── run_optimized_scan.py               # Main scanner CLI
 ├── manage_positions.py                 # Position management CLI
 ├── automated_position_report.py        # GitHub Actions position report
+├── run_screen.sh                       # Convenience wrapper (full scan)
+├── run_test.sh                         # Convenience wrapper (test scan)
 │
-├── docs/                               # Extended documentation
-│   ├── GITHUB_ACTIONS_SETUP.md
-│   ├── ROBINHOOD_SETUP.md
-│   ├── SMART_CACHING_STRATEGY.md
-│   └── ...
-│
-├── README.md                           # This file
-├── CHANGELOG.md                        # Version history
-├── LICENSE                             # MIT License
-├── requirements.txt                    # Python dependencies
-└── .env                                # Local configuration (gitignored)
+├── config.yaml                         # Scan configuration
+├── requirements.txt
+├── README.md
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+└── LICENSE
 ```
 
 ---
