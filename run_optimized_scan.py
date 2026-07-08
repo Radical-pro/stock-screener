@@ -267,11 +267,11 @@ def save_report(results, buy_signals, sell_signals, spy_analysis, breadth, outpu
 
     # Save
     filepath = Path(output_dir) / f"optimized_scan_{timestamp}.txt"
-    with open(filepath, 'w') as f:
+    with open(filepath, 'w', encoding='utf-8') as f:
         f.write(report_text)
 
     latest_path = Path(output_dir) / "latest_optimized_scan.txt"
-    with open(latest_path, 'w') as f:
+    with open(latest_path, 'w', encoding='utf-8') as f:
         f.write(report_text)
 
     logger.info(f"Report saved: {filepath}")
