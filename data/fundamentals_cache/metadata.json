@@ -7272,7 +7272,7 @@
     "in_earnings_season": true
   },
   "SAFT": {
-    "last_updated": "2026-04-14T14:52:48.313986",
+    "last_updated": "2026-07-14T17:32:54.228222",
     "in_earnings_season": false
   },
   "SARO": {
@@ -9765,6 +9765,10 @@
   },
   "IBRX": {
     "last_updated": "2026-07-13T18:48:08.075238",
+    "in_earnings_season": false
+  },
+  "UFI": {
+    "last_updated": "2026-07-14T17:41:11.193125",
     "in_earnings_season": false
   }
 }
