@@ -5838,5 +5838,45 @@
   "WEAV": {
     "last_updated": "2026-07-17T17:37:50.719743",
     "in_earnings_season": true
+  },
+  "AARD": {
+    "last_updated": "2026-07-20T17:08:28.921946",
+    "in_earnings_season": true
+  },
+  "ELMD": {
+    "last_updated": "2026-07-20T17:27:10.961050",
+    "in_earnings_season": true
+  },
+  "ICE": {
+    "last_updated": "2026-07-20T17:36:34.593544",
+    "in_earnings_season": true
+  },
+  "MCGA": {
+    "last_updated": "2026-07-20T17:43:32.275405",
+    "in_earnings_season": true
+  },
+  "NP": {
+    "last_updated": "2026-07-20T17:47:52.063676",
+    "in_earnings_season": true
+  },
+  "QLYS": {
+    "last_updated": "2026-07-20T17:54:40.086468",
+    "in_earnings_season": true
+  },
+  "RCEL": {
+    "last_updated": "2026-07-20T17:55:19.165529",
+    "in_earnings_season": true
+  },
+  "STRT": {
+    "last_updated": "2026-07-20T18:02:01.378417",
+    "in_earnings_season": true
+  },
+  "TECH": {
+    "last_updated": "2026-07-20T18:03:06.441175",
+    "in_earnings_season": true
+  },
+  "TLK": {
+    "last_updated": "2026-07-20T18:03:46.332324",
+    "in_earnings_season": true
   }
 }
