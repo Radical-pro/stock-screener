@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AES",
-    "fetch_date": "2026-07-15T16:54:05.641670",
+    "fetch_date": "2026-07-22T17:01:45.949901",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 2926000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.204,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T16:54:05.643185"
+  "fetched_at": "2026-07-22T17:01:45.951719"
 }

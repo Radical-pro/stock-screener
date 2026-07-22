@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FRPT",
-    "fetch_date": "2026-07-15T17:16:19.316817",
+    "fetch_date": "2026-07-22T17:23:02.919067",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 263249000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.271,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:16:19.318329"
+  "fetched_at": "2026-07-22T17:23:02.921061"
 }

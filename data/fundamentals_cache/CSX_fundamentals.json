@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CSX",
-    "fetch_date": "2026-07-15T17:08:02.681286",
+    "fetch_date": "2026-07-22T17:15:09.770949",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 3423000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.126,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:08:02.682791"
+  "fetched_at": "2026-07-22T17:15:09.773436"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HOG",
-    "fetch_date": "2026-07-15T17:20:53.032068",
+    "fetch_date": "2026-07-22T17:27:31.528353",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1329209000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.531,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:20:53.033799"
+  "fetched_at": "2026-07-22T17:27:31.530093"
 }

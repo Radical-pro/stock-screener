@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ASTE",
-    "fetch_date": "2026-07-15T16:57:58.492868",
+    "fetch_date": "2026-07-22T17:05:29.061431",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 329400000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 1.185,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T16:57:58.494341"
+  "fetched_at": "2026-07-22T17:05:29.063286"
 }

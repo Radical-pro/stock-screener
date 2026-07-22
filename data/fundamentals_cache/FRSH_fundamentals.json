@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FRSH",
-    "fetch_date": "2026-07-15T17:16:19.707962",
+    "fetch_date": "2026-07-22T17:23:03.567650",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 196273000.0,
       "2025-06-30 00:00:00": 204678000.0,
@@ -25,5 +25,5 @@
     "operating_margin": -3.53,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:16:19.709124"
+  "fetched_at": "2026-07-22T17:23:03.568991"
 }

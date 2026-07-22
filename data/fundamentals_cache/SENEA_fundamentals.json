@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SENEA",
-    "fetch_date": "2026-07-15T17:44:32.356817",
+    "fetch_date": "2026-07-22T17:50:54.443323",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 345839000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 1.559,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:44:32.358532"
+  "fetched_at": "2026-07-22T17:50:54.445105"
 }

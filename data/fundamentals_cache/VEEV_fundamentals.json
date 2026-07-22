@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "VEEV",
-    "fetch_date": "2026-07-15T17:53:44.510794",
+    "fetch_date": "2026-07-22T17:59:52.179018",
     "quarterly_revenue": {
       "2024-10-31 00:00:00": NaN,
       "2025-04-30 00:00:00": 759043000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 30.93,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:53:44.511993"
+  "fetched_at": "2026-07-22T17:59:52.180393"
 }

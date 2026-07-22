@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FBYD",
-    "fetch_date": "2026-07-15T17:14:22.758532",
+    "fetch_date": "2026-07-22T17:21:15.603123",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1708000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -84.97,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:14:22.759692"
+  "fetched_at": "2026-07-22T17:21:15.605062"
 }

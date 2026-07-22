@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "DVA",
-    "fetch_date": "2026-07-15T17:11:05.906686",
+    "fetch_date": "2026-07-22T17:18:09.165485",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 3223529000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.041,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T17:11:05.908186"
+  "fetched_at": "2026-07-22T17:18:09.167218"
 }
