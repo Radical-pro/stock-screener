@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ATEC",
-    "fetch_date": "2026-07-15T16:58:06.346822",
+    "fetch_date": "2026-07-27T18:05:14.703521",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 169180000.0,
       "2025-06-30 00:00:00": 185544000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.968,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T16:58:06.348310"
+  "fetched_at": "2026-07-27T18:05:14.705318"
 }
