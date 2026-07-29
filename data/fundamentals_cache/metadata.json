@@ -3944,7 +3944,7 @@
     "in_earnings_season": true
   },
   "RKT": {
-    "last_updated": "2026-07-15T17:42:20.393084",
+    "last_updated": "2026-07-29T17:40:41.814098",
     "in_earnings_season": true
   },
   "RL": {
@@ -5840,7 +5840,7 @@
     "in_earnings_season": true
   },
   "AARD": {
-    "last_updated": "2026-07-20T17:08:28.921946",
+    "last_updated": "2026-07-29T16:52:49.285778",
     "in_earnings_season": true
   },
   "ELMD": {
@@ -7601,6 +7601,10 @@
   },
   "ZUMZ": {
     "last_updated": "2026-07-28T18:15:36.849468",
+    "in_earnings_season": true
+  },
+  "ZG": {
+    "last_updated": "2026-07-29T17:55:14.969127",
     "in_earnings_season": true
   }
 }
