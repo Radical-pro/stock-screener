@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "COLM",
-    "fetch_date": "2026-07-22T17:14:07.707589",
+    "fetch_date": "2026-07-30T17:23:30.298906",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 778452000.0,
       "2025-06-30 00:00:00": 605246000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.801,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T17:14:07.710114"
+  "fetched_at": "2026-07-30T17:23:30.300043"
 }

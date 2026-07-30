@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "IBN",
-    "fetch_date": "2026-07-22T17:28:42.642494",
+    "fetch_date": "2026-07-30T17:37:56.648861",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 356136100000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": 13.789417423837511,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T17:28:42.643155"
+  "fetched_at": "2026-07-30T17:37:56.649408"
 }
