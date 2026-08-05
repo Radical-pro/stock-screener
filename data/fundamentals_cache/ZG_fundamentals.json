@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ZG",
-    "fetch_date": "2026-07-29T17:55:14.966458",
+    "fetch_date": "2026-08-05T18:15:43.600799",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 598000000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 5.08,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T17:55:14.967689"
+  "fetched_at": "2026-08-05T18:15:43.601992"
 }
