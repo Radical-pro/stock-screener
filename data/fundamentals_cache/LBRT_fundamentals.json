@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LBRT",
-    "fetch_date": "2026-07-30T17:42:19.590201",
+    "fetch_date": "2026-08-07T15:43:20.284308",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.156,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T17:42:19.591359"
+  "fetched_at": "2026-08-07T15:43:20.285801"
 }

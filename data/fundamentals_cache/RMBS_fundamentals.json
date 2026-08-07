@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "RMBS",
-    "fetch_date": "2026-07-30T17:58:06.307374",
+    "fetch_date": "2026-08-07T15:59:09.467151",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.361,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T17:58:06.308552"
+  "fetched_at": "2026-08-07T15:59:09.468679"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SCSC",
-    "fetch_date": "2026-07-30T17:59:48.252468",
+    "fetch_date": "2026-08-07T16:00:51.355051",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 704847000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.635,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T17:59:48.253644"
+  "fetched_at": "2026-08-07T16:00:51.356537"
 }

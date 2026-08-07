@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ATEN",
-    "fetch_date": "2026-07-30T17:15:01.414800",
+    "fetch_date": "2026-08-07T15:15:59.899238",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 66137000.0,
       "2025-06-30 00:00:00": 69383000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.269,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T17:15:01.415940"
+  "fetched_at": "2026-08-07T15:15:59.900716"
 }

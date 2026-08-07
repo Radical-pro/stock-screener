@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AYI",
-    "fetch_date": "2026-07-30T17:15:55.589687",
+    "fetch_date": "2026-08-07T15:16:55.323583",
     "quarterly_revenue": {
       "2025-02-28 00:00:00": NaN,
       "2025-05-31 00:00:00": 1178600000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.383,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T17:15:55.590877"
+  "fetched_at": "2026-08-07T15:16:55.325057"
 }

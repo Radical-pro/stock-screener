@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AIT",
-    "fetch_date": "2026-07-30T17:11:59.225326",
+    "fetch_date": "2026-08-07T15:12:57.131384",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1166749000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.421,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T17:11:59.226498"
+  "fetched_at": "2026-08-07T15:12:57.132867"
 }

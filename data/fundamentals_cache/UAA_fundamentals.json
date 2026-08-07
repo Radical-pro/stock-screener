@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "UAA",
-    "fetch_date": "2026-07-30T18:07:15.790669",
+    "fetch_date": "2026-08-07T16:08:18.651282",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1180583000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.781,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T18:07:15.791833"
+  "fetched_at": "2026-08-07T16:08:18.652789"
 }

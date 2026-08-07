@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BOX",
-    "fetch_date": "2026-07-30T17:18:37.246615",
+    "fetch_date": "2026-08-07T15:19:37.231238",
     "quarterly_revenue": {
       "2025-04-30 00:00:00": 276272000.0,
       "2025-07-31 00:00:00": 293999000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 8.97,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T17:18:37.247508"
+  "fetched_at": "2026-08-07T15:19:37.232385"
 }

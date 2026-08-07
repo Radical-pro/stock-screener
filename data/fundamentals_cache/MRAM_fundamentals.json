@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MRAM",
-    "fetch_date": "2026-07-30T17:46:48.762242",
+    "fetch_date": "2026-08-07T15:47:48.277160",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 13138000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.757,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T17:46:48.763411"
+  "fetched_at": "2026-08-07T15:47:48.278656"
 }

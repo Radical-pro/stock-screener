@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "UNP",
-    "fetch_date": "2026-07-30T18:07:52.308178",
+    "fetch_date": "2026-08-07T16:08:55.754871",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.134,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T18:07:52.309342"
+  "fetched_at": "2026-08-07T16:08:55.756367"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ACVA",
-    "fetch_date": "2026-07-30T17:10:38.046726",
+    "fetch_date": "2026-08-07T15:11:34.969264",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 182697000.0,
       "2025-06-30 00:00:00": 193703000.0,
@@ -25,5 +25,5 @@
     "operating_margin": -4.52,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T17:10:38.047630"
+  "fetched_at": "2026-08-07T15:11:34.970451"
 }
