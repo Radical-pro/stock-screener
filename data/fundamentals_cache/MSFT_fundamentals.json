@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MSFT",
-    "fetch_date": "2026-08-04T18:51:19.326607",
+    "fetch_date": "2026-08-12T13:37:04.811308",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 76441000000.0,
       "2025-09-30 00:00:00": 77673000000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.016,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-04T18:51:19.328406"
+  "fetched_at": "2026-08-12T13:37:04.813093"
 }

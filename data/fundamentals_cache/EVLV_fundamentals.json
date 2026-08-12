@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EVLV",
-    "fetch_date": "2026-08-04T18:34:09.291881",
+    "fetch_date": "2026-08-12T13:19:54.478757",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 32007000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.178,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-04T18:34:09.293819"
+  "fetched_at": "2026-08-12T13:19:54.480532"
 }
