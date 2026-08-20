@@ -8694,5 +8694,17 @@
   "SRG": {
     "last_updated": "2026-08-18T13:29:51.422032",
     "in_earnings_season": false
+  },
+  "FRPH": {
+    "last_updated": "2026-08-20T13:01:59.202548",
+    "in_earnings_season": false
+  },
+  "IA": {
+    "last_updated": "2026-08-20T13:07:27.301779",
+    "in_earnings_season": false
+  },
+  "NAVN": {
+    "last_updated": "2026-08-20T13:17:37.397129",
+    "in_earnings_season": false
   }
 }
