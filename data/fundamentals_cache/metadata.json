@@ -8706,5 +8706,17 @@
   "NAVN": {
     "last_updated": "2026-08-20T13:17:37.397129",
     "in_earnings_season": false
+  },
+  "JRSH": {
+    "last_updated": "2026-08-21T13:08:52.725067",
+    "in_earnings_season": false
+  },
+  "PMTS": {
+    "last_updated": "2026-08-21T13:22:50.893022",
+    "in_earnings_season": false
+  },
+  "TSQ": {
+    "last_updated": "2026-08-21T13:34:51.954349",
+    "in_earnings_season": false
   }
 }
