@@ -8722,5 +8722,29 @@
   "XZO": {
     "last_updated": "2026-08-24T13:43:18.923660",
     "in_earnings_season": false
+  },
+  "BETA": {
+    "last_updated": "2026-08-25T12:46:27.491227",
+    "in_earnings_season": false
+  },
+  "OESX": {
+    "last_updated": "2026-08-25T13:20:14.316843",
+    "in_earnings_season": false
+  },
+  "PMI": {
+    "last_updated": "2026-08-25T13:23:50.774170",
+    "in_earnings_season": false
+  },
+  "REAX": {
+    "last_updated": "2026-08-25T13:26:28.789490",
+    "in_earnings_season": false
+  },
+  "SUNC": {
+    "last_updated": "2026-08-25T13:33:04.986800",
+    "in_earnings_season": false
+  },
+  "UI": {
+    "last_updated": "2026-08-25T13:36:53.043371",
+    "in_earnings_season": false
   }
 }
