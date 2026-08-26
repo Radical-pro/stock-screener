@@ -8746,5 +8746,13 @@
   "UI": {
     "last_updated": "2026-08-25T13:36:53.043371",
     "in_earnings_season": false
+  },
+  "BLLN": {
+    "last_updated": "2026-08-26T12:50:58.042733",
+    "in_earnings_season": false
+  },
+  "SATA": {
+    "last_updated": "2026-08-26T13:32:24.205921",
+    "in_earnings_season": false
   }
 }
