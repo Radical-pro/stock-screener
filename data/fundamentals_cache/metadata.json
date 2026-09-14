@@ -8814,5 +8814,17 @@
   "STAA": {
     "last_updated": "2026-09-10T16:38:50.237213",
     "in_earnings_season": false
+  },
+  "ACI": {
+    "last_updated": "2026-09-14T17:34:31.730646",
+    "in_earnings_season": false
+  },
+  "FLXS": {
+    "last_updated": "2026-09-14T17:55:48.011964",
+    "in_earnings_season": false
+  },
+  "PPIH": {
+    "last_updated": "2026-09-14T18:18:46.065931",
+    "in_earnings_season": false
   }
 }
