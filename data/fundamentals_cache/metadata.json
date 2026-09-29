@@ -8878,5 +8878,13 @@
   "WSBF": {
     "last_updated": "2026-09-28T20:12:08.217772",
     "in_earnings_season": false
+  },
+  "BAND": {
+    "last_updated": "2026-09-29T17:38:40.798479",
+    "in_earnings_season": false
+  },
+  "VRME": {
+    "last_updated": "2026-09-29T18:31:56.494084",
+    "in_earnings_season": false
   }
 }
